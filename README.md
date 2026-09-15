@@ -13,6 +13,11 @@ Inside the `Tasks` folder, you will find three subfolders. The most important of
 
 This task revolves around a fully interactive, dynamic Battlepass UI system.
 
+### Demo Video
+> 🎬 **Watch Demo:** [UI_Task_1.mp4](./UI_Task_1.mp4)
+
+<video src="./UI_Task_1.mp4" controls="controls" width="100%"></video>
+
 ### Scene Location
 Open the Task 1 scene from the `Assets/Tasks/Scenes` folder.
 
@@ -38,6 +43,11 @@ If you want to test deeper functionalities:
 ## Task 2: Aura Effects
 
 This task was specifically focused on visual effects and shaders.
+
+### Demo Video
+> 🎬 **Watch Demo:** [VFX_Tak_2.mp4](./VFX_Tak_2.mp4)
+
+<video src="./VFX_Tak_2.mp4" controls="controls" width="100%"></video>
 
 ### Scene Location
 Open the Task 2 scene from the `Assets/Tasks/Scenes` folder.
